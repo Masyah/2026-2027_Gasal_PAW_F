@@ -1,5 +1,4 @@
 <?php
-// Deklarasi Array sesuai ketentuan
 $matkul = ["PTI", "ALPRO", "DPW", "STRUKDAT", "JARKOM", "PAW", "PSBF", "RPL"];
 $praktikum = ["JARKOM", "PAW"];
 
