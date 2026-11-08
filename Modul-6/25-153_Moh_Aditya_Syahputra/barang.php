@@ -6,7 +6,7 @@ $q_barang = mysqli_query($conn, "SELECT * FROM barang");
 <html>
 <head><title>Data Master Barang</title></head>
 <body>
-    <a href="index.php"><< Kembali ke Master Transaksi</a>
+    <a href="index.php">Kembali ke Master Transaksi</a>
     <h2>Data Master Barang (Tugas 3)</h2>
     
     <table border="1">

@@ -41,7 +41,7 @@ mysqli_data_seek($q_detil, 0);
 <html>
 <head><title>Master Detail Transaksi</title></head>
 <body>
-    <a href="barang.php">>> Ke Halaman Kelola Master Barang (Untuk Tugas 3)</a>
+    <a href="barang.php">Ke Halaman Kelola Master Barang (Untuk Tugas 3)</a>
     <br><br>
 
     <table border="1">
